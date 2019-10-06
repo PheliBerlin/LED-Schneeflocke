@@ -1,0 +1,17 @@
+xmasStern       KEYWORD1
+
+weiss			KEYWORD2
+rot				KEYWORD2
+gruen			KEYWORD2
+gelb			KEYWORD2
+
+umlauflinks		KEYWORD2
+umlaufrechts	KEYWORD2
+sparkle			KEYWORD2
+viererrunde		KEYWORD2
+gelberring		KEYWORD2
+gruenerring		KEYWORD2
+ring			KEYWORD2
+spitze			KEYWORD2
+		
+aus				KEYWORD2
