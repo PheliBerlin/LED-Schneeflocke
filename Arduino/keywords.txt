@@ -1,17 +1,27 @@
-xmasStern       KEYWORD1
+xmasStern       	KEYWORD1
 
-weiss			KEYWORD2
-rot				KEYWORD2
-gruen			KEYWORD2
-gelb			KEYWORD2
+sternDelay			KEYWORD2
 
-umlauflinks		KEYWORD2
-umlaufrechts	KEYWORD2
-sparkle			KEYWORD2
-viererrunde		KEYWORD2
-gelberring		KEYWORD2
-gruenerring		KEYWORD2
-ring			KEYWORD2
-spitze			KEYWORD2
+weiss				KEYWORD2
+rot					KEYWORD2
+gruen				KEYWORD2
+gelb				KEYWORD2
+
+umlaufLinks			KEYWORD2
+umlaufrechts		KEYWORD2
+sparkle				KEYWORD2
+viererrunde			KEYWORD2
+gelberring			KEYWORD2
+gruenerring			KEYWORD2
+ring				KEYWORD2
+spitze				KEYWORD2
+eineLED				KEYWORD2
+eineLEDaus			KEYWORD2
+umlaufAlleLinks		KEYWORD2
+umlaufalleRechts	KEYWORD2
+feuerWerk			KEYWORD2
+sternDelay			KEYWORD2
+tickTack			KEYWORD2
 		
-aus				KEYWORD2
+aus					KEYWORD2
+an					KEYWORD2
