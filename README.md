@@ -1,5 +1,6 @@
 # LED-Schneeflocke
- Eine leuchtende LED Schneeflocke für den Schreibtisch
+
+Eine leuchtende LED Schneeflocke für den Schreibtisch
 
 ![Aufgebaut](/Bilder/Stern1.jpg)
 
@@ -11,6 +12,8 @@ Als Fuß habe ich ein Stück Holz vom Olivenbaum genommen.
 
 ![Standfuß](/Bilder/Stern4.jpg)
 
-Da es zum Anschluß an den USB- Anschluß gedacht war, sollte es auch nicht zu viel Strom ziehen. Obwohl ich auf keine Optimierungen im Stromverbrauch geachtet habe, ist der Stromverbrauch auch bei alles 30 leuchtenden LED nur gering.
+Da es zum Anschluß an den USB- Anschluß gedacht war, sollte es auch nicht zu viel Strom ziehen. Obwohl ich auf keine Optimierungen im Stromverbrauch geachtet habe, ist der Stromverbrauch auch bei allen 30 leuchtenden LED nur gering.
 
 ![Strom](/Bilder/Stern6.jpg)
+
+Die Veröffentlichung erfolgt hier unter GNU General Public License Version 3.
